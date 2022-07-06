@@ -4,7 +4,7 @@ Quick Sort
 DFS
 Dijkstra
 Prerequisite
-Basic coding knowledge
+Basic coding knowledge....
 
 Some concept about data structure and algorithm.
 
